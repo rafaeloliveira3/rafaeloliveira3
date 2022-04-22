@@ -22,7 +22,7 @@ I am a programming student at SENAI - Jandira <img src="https://media.giphy.com/
 
 - 🔭 I'm currently learning JAVA, HTML, CSS and JAVASCRIPT.
 
-- 📫 Send me an email.
+- 📫 Contact me at my email!
 
 ---
 
