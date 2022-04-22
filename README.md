@@ -44,6 +44,3 @@ I am a programming student at SENAI - Jandira <img src="https://media.giphy.com/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveira3&layout=compact&theme=nightowl&border=3A218B)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
