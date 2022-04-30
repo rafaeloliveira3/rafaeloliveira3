@@ -2,7 +2,12 @@
   <img src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=rafaeloliveira3&style=flat-square&color=blue" alt=""/>
+  <a href="mailto:rafael.souza075@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
+<div id="views-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=rafaeloliveira3&style=flat-square&color=blue" alt=""/>  
 </div>
 <h1 align="center">
   Hello World!
