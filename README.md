@@ -3,7 +3,10 @@
 </div>
 <div id="badges" align="center">
   <a href="mailto:rafael.souza075@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-oliveira-de-souza-07111223a/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
 <div id="views-counter" align="center">
