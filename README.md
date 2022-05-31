@@ -50,4 +50,4 @@ I am a programming student at SENAI - Jandira <img src="https://media.giphy.com/
 
 ### :snake: See the snake eating my contributions!
 
-![snake gif](https://github.com/rafaeloliveira3/rafaeloliveira3/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/rafaeloliveira3/rafaeloliveira3/blob/output/github-contribution-grid-snake.svg)
