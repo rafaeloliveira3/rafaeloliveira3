@@ -47,3 +47,7 @@ I am a programming student at SENAI - Jandira <img src="https://media.giphy.com/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveira3&layout=compact&theme=nightowl&border=3A218B)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+### :snake: See the snake eating my contributions!
+
+![snake gif](https://github.com/rafaeloliveira3/rafaeloliveira3/blob/output/github-contribution-grid-snake.gif)
