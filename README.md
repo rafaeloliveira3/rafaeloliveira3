@@ -23,7 +23,7 @@ I am a programming student at SENAI - Jandira <img src="https://media.giphy.com/
 
 - 🌱 My name is Rafael Oliveira. I currently live in São Paulo - Brazil.
 
-- 🔭 I'm currently learning HTML, CSS, JavaScript, Node JS and Kotlin.
+- 🔭 I'm currently learning HTML, CSS, JavaScript, Express and Kotlin.
 
 - 📫 Contact me at my email!
 
