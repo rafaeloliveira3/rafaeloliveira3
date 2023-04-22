@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/dKc2fBq97S9gIzLX2j/giphy.gif" width="150"/>
-</div>
+<h1 align="center">Hello World!</h1>
+
+<h3 align="center">My name is Rafael Oliveira</h3>
 <div id="badges" align="center">
   <a href="mailto:rafael.souza075@outlook.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Badge"/>
@@ -12,26 +12,23 @@
 <div id="views-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=rafaeloliveira3&style=flat-square&color=blue" alt=""/>  
 </div>
-<h1 align="center">
-  Hello World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-</h1>
-
-### :framed_picture: About Me :
-
-I am a programming student at SENAI - Jandira <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 🌱 My name is Rafael Oliveira. I currently live in São Paulo - Brazil.
-
-- 🔭 I'm currently learning JavaScript, React, Express, and Kotlin.
-
-- 📫 Contact me at my email!
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<h3 align="center">My GitHub Stats</h3>
 
-<div>
+<div align="center" class="stats-container">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafaeloliveira3&theme=transparent&hide_border=true&ring=004275&fire=078275&currStreakNum=078275&dates=575656&sideNums=004275&currStreakLabel=078275&sideLabels=055869" title="Github Contribution Streak" alt="Github Contribution Streak"/></a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveira3&layout=compact&theme=transparent&hide_border=true&title_color=078275&text_color=575656" />
+  
+</div>
+
+---
+
+<h3 align="center">Languages and Tools </h3>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="JAVA" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML 5" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS 3" alt="CSS" width="40" height="40"/>
@@ -41,19 +38,12 @@ I am a programming student at SENAI - Jandira <img src="https://media.giphy.com/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Js" alt="React Js" width="40" height="40"/>
-  
 </div>
 
 ---
 
-### :bookmark_tabs: My GitHub Stats :
+<h3 align="center">See the snake eating my contributions!</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafaeloliveira3&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D&fire=DD2650&border=FFFFFF)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveira3&layout=compact&theme=nightowl&border=3A218B)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :snake: See the snake eating my contributions!
-
-![snake gif](https://github.com/rafaeloliveira3/rafaeloliveira3/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/rafaeloliveira3/rafaeloliveira3/blob/output/github-contribution-grid-snake.svg"/>
+</div>
